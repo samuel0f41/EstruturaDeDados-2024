@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87b5ca63-ce8a-4833-a6d6-bb4a792a563f" name="Changes" comment="UPANDO">
-      <changelist_data name="Samuel Felipe" email="126738365+samuel0f41@users.noreply.github.com" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quiz/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quiz/src/main/java/br/ufpb/samuel/Pergunta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quiz/src/main/java/br/ufpb/samuel/PerguntaDissetartiva.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quiz/src/main/java/br/ufpb/samuel/PerguntaME.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quiz/src/main/java/br/ufpb/samuel/PerguntaVF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quiz/src/main/java/br/ufpb/samuel/SistemaQuiz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quiz/src/main/java/br/ufpb/samuel/SistemaQuizSamuel.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DequeSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ChainingHashST3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Deque.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -26,6 +28,7 @@
         <option value="Samuel Felipe &lt;126738365+samuel0f41@users.noreply.github.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -55,9 +58,10 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\IdeaProjects\EstruturaDeDados-2024\src\main\java" />
+      <recent name="C:\Users\samue\IdeaProjects\EstruturaDeDados-2024\src\main" />
       <recent name="C:\Users\samue\IdeaProjects\EstruturaDeDados-2024" />
       <recent name="C:\Users\samue\IdeaProjects\EstruturaDeDados-2024\.idea" />
-      <recent name="C:\Users\samue\IdeaProjects\EstruturaDeDados-2024\src\main\java" />
       <recent name="C:\Users\samue\IdeaProjects\EstruturaDeDados-2024\ChainingHashST-3\src\main" />
     </key>
   </component>
@@ -85,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711073335857</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="UPANDO">
+      <option name="closed" value="true" />
+      <created>1711073391065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711073391065</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
